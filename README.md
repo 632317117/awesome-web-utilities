@@ -27,6 +27,12 @@ A curated collection of practical web utilities — image enhancement, calculato
 |------|-------------|---------|
 | [TaxedAbroad](https://taxedabroad.com) | Digital nomad tax calculator — compare taxes across countries. Helps remote workers and expats understand their tax obligations across different jurisdictions. | **Free** *(assumed)* |
 
+### Trade & Tariff
+
+| Tool | Description | Pricing |
+|------|-------------|---------|
+| [TariffPedia](https://tariffpedia.com) | Free cross-border tariff reference tool. Look up MFN duty rates for the US, EU, UK, and China by HS code — no broker or paid subscription required. Data sourced directly from USITC, TARIC, GOV.UK, and China Customs. Each rate links back to the official source for verification. | **Free** |
+
 ---
 
 *Most tools are 100% free and require no sign-up. *
