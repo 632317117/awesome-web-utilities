@@ -9,6 +9,7 @@ A curated collection of practical web utilities — image enhancement, calculato
 | Tool | Description | Pricing |
 |------|-------------|---------|
 | [CompactJPG](https://compactjpg.com/) | Browser-based image compressor supporting JPEG, PNG, WebP and GIF. Uses WebAssembly to process files locally — nothing ever leaves your device. Supports batch compression with adjustable quality sliders and side-by-side preview. | **Free** |
+| [Metadata Remover](https://metadataremover.ai/) | Free browser-based tool to inspect and remove metadata from images. No registration required. | **Free** |
 | [ClarifyPix](https://clarifypix.com/) | AI-powered photo enhancer offering upscaling (2x to 16x), restoration, colorization, and background removal. 6 specialized AI models, batch processing up to 20 images, and side-by-side comparison. Images auto-delete after 1 hour. | **Freemium** — 7-day trial for $1.99, then from $19.90/month |
 
 ### Calculators & Utilities
