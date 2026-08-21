@@ -20,6 +20,13 @@ A curated collection of practical web utilities — image enhancement, calculato
 | [FryCalc](https://frycalc.com/) | Air fryer cooking time database with 50+ tested foods. Includes oven-to-air-fryer conversion tool (reduce temperature by 25°F, reduce time by 20%). Each food page includes precise settings, step-by-step instructions, and pro tips. | **Free** |
 | [ColdPlungeCalc](https://coldplungecalc.com/en/) | Science-backed cold plunge training system. Includes safety risk assessment, personalized immersion time based on water temperature and experience level, guided timer, and a 6-week progression plan toward the research-supported ~11 minutes per week target. References Harvard Health and peer-reviewed studies. | **Free** |
 | [UntrackedTools](https://untrackedtools.com/en/) | Collection of 100+ browser-based utilities covering PDF, image, text, development, and calculators. Everything runs locally in your browser — no registration, no tracking. | **Free** |
+| [WattsCalc](https://wattscalc.com) | Free wattage and electricity cost calculator for appliances and devices. | **Free** |
+| [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) | Free lawn mowing cost estimates by area, rate, and extras. | **Free** |
+| [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) | Free pricing calculator for embroidery jobs (stitches, fabric, labor). | **Free** |
+| [Image to Crochet Pattern](https://imagetocrochetpattern.com) | Free tool that converts images into crochet patterns. | **Free** |
+| [Codex Theme Builder](https://codextheme.tools) | Free browser theme builder for OpenAI Codex with live preview. | **Free** |
+| [SkyCOTL Tools](https://skycotl.tools) | Free guides and calculators for Sky: Children of the Light. | **Free** |
+| [Pressure Washer Fix](https://pressurewasherfix.com) | Free troubleshooting guides for common pressure washer issues. | **Free** |
 
 ### Finance, Tax & Business
 
