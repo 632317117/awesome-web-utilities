@@ -27,6 +27,7 @@ A curated collection of practical web utilities — image enhancement, calculato
 |------|-------------|---------|
 | [TaxedAbroad](https://taxedabroad.com/) | Digital nomad tax calculator — compare taxes across countries. Helps remote workers and expats understand their tax obligations across different jurisdictions. | **Free** |
 | [InvoiceFormly](https://invoiceformly.com/en/) | Free invoice generator — create professional, print-ready PDF invoices in seconds. No sign-up, no watermarks, no limits. Free version includes PDF download, invoice history (My Invoices), and guides. Pro adds cloud sync, sender profiles, client book, one-click duplicate, status tracking, and custom templates/fields. | **Freemium** — Free, or $9.90/month for Pro |
+| [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) | Free browser-only freelancer utilities: invoice, quote, rate calculator, payment reminder, SOW, proposal, and client onboarding checklist. No signup or upload; copy, download, or print locally. | **Free** |
 
 ### Trade & Tariff
 
