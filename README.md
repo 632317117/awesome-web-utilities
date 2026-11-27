@@ -21,6 +21,8 @@ A curated collection of practical web utilities — image enhancement, calculato
 | [ColdPlungeCalc](https://coldplungecalc.com/en/) | Science-backed cold plunge training system. Includes safety risk assessment, personalized immersion time based on water temperature and experience level, guided timer, and a 6-week progression plan toward the research-supported ~11 minutes per week target. References Harvard Health and peer-reviewed studies. | **Free** |
 | [UntrackedTools](https://untrackedtools.com/en/) | Collection of 100+ browser-based utilities covering PDF, image, text, development, and calculators. Everything runs locally in your browser — no registration, no tracking. | **Free** |
 
+| [StagePeek](https://stagepeek.live/) | Interactive 2D seating maps and 3D concert stage-view simulator covering 201 global stadiums and arenas with 1x–10x smartphone camera zoom, End/Runway/360° stage layouts, and 5 languages. Free first-seat preview with no login required; free account gives 4 seat views per venue. | **Freemium** — Free first seat (no login), 4/venue free signed in; Pro from $4.99 |
+
 ### Finance, Tax & Business
 
 | Tool | Description | Pricing |
